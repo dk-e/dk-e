@@ -5,4 +5,3 @@
  <br>  
   <a href="https://discord.com/users/745631824163766412"><img src="https://api.status.gg/discord/745631824163766412?theme%5Bbackground%5D%5Bprimary%5D=000000&theme%5Bbackground%5D%5Bsecondary%5D=000000&theme%5Btext%5D%5Bprimary%5D=ffffff&theme%5Btext%5D%5Bsecondary%5D=ffffff&theme%5Bseparator%5D=ffffff&theme%5Blogo%5D=000000" width=40%></a>
 </p>
-<!-- https://files.catbox.moe/4598g8.webp -->
