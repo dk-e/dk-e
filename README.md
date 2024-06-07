@@ -1,5 +1,3 @@
-![image](./assets/header-crop.png)
 
-```yaml
-66 75 6C 6C 73 74 61 63 6B 20 64 65 76 65 6C 6F 70 65 72 20 28 6B 69 6E 64 61 29
-```
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.zurly.me/file/star.gif');]{x0000}$}
